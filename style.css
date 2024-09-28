@@ -1,0 +1,73 @@
+h1{
+color: blue;
+border: solid 2px red;
+background-color: rgb(208, 208, 238);
+border-radius: 20px;
+text-align: center;
+}
+.hayvon{
+    color: red;
+    font-size: 17px;
+}
+p1{
+    font-size: 15px;
+}
+.bizning{
+    color: green;
+    font-size: 30px;
+}
+.fakt{
+    background-color: yellow;
+    color: green;
+    border: none;
+    border-radius: 0px;
+}
+.fikr{
+    color: green;
+}
+iframe{
+    margin-left: 30%;
+}
+textarea{
+    width: 1500px;
+    height: 50px;
+}
+.pic{
+    text-align: center  ;
+}
+button{
+    background-color: rgb(21, 145, 167);
+    width: 260px;
+    height: 35px;
+}
+.qizil{
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+.qora{
+    background-color: black;
+    color: white;
+}
+.kok{
+    background-color: blue;
+    color: white;
+}
+.yashil{
+    background-color: green;
+    color: white;
+}
+table, th, td{
+    border-collapse: collapse;
+   border: 4px solid wheat;
+}
+th, td{
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+table{
+    width: 80%;
+}
+
+
+
